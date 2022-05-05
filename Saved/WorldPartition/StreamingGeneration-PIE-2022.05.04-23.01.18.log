@@ -1,0 +1,12 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/Maps/start_map
+   |  ActorDescs:
+   |      - Guid:03920DF94EEFC9F86CC66185D32A3DA1 Class:StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 SpatiallyLoaded:true Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB Parent:00000000000000000000000000000000
+   |      - Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA Class:SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=10.000), Max=(X=0.000 Y=0.000 Z=10.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB Parent:00000000000000000000000000000000
+   |      - Guid:2CE12F874AA39D020A0F4BA5739BD305 Class:SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB Parent:00000000000000000000000000000000
+   |      - Guid:7BC0A65F405309A1090C36A2E583CAAC Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:F435E47E4F4E96D62722D4AC8B58ED85 Class:PlayerStart Name:PlayerStart_UAID_5CE42A4B67B5BB0C01_1457210743 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=-390.000 Y=160.000 Z=-190.000), Max=(X=-310.000 Y=240.000 Z=-6.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
